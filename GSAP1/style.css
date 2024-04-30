@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#box1{
+    height: 200px;
+    width: 200px;
+    margin-top: 10vh;
+   background-color: blueviolet;
+}
+
+
+#box2{
+    height: 200px;
+    width: 200px;
+    margin-top: 10vh;
+    background-color: yellow;   
+}
